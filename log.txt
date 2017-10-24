@@ -1,0 +1,82 @@
+Command:
+my-tweets 
+Result:
+
+entry of the gods into valhalla
+this is the 20th
+count down
+why 2 more?
+that might be fun
+generat fake tweets
+should write a robot
+not easy enough
+that is easy
+almost there
+nine more to go
+people gets mad easily these days https://t.co/X6iKjJdbCP
+coming closer to 20
+how does people have time
+Ava sends tweets way too often
+nothing is happening
+how many to go
+still not 20
+@realDonaldTrump interesting
+when will it be the 20 tweest
+
+
+Command:
+do-what-it-says "I Want it That Way"
+Result:
+{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"},"href":"https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7","id":"5rSXSAkZ67PYJSvpUpkOr7","name":"Backstreet Boys","type":"artist","uri":"spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TH","TR","TW","US","UY","VN"],"external_urls":{"spotify":"https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"},"href":"https://api.spotify.com/v1/albums/1NslKOZobWxINFaFkLol3r","id":"1NslKOZobWxINFaFkLol3r","images":[{"height":640,"url":"https://i.scdn.co/image/91142eab23c3273fa73e490f2d04464c69423f75","width":640},{"height":300,"url":"https://i.scdn.co/image/a0c568812dd34dc1f0262dabec0773c27e36f27a","width":300},{"height":64,"url":"https://i.scdn.co/image/59281a4b01e936a3a5fa3d95d58b033780f0cf8c","width":64}],"name":"The Hits--Chapter One","type":"album","uri":"spotify:album:1NslKOZobWxINFaFkLol3r"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"},"href":"https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7","id":"5rSXSAkZ67PYJSvpUpkOr7","name":"Backstreet Boys","type":"artist","uri":"spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TH","TR","TW","US","UY","VN"],"disc_number":1,"duration_ms":213600,"explicit":false,"external_ids":{"isrc":"USJI19910614"},"external_urls":{"spotify":"https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"},"href":"https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6","id":"6e40mgJiCid5HRAGrbpGA6","name":"I Want It That Way","popularity":77,"preview_url":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6d8b70d204e54db6b2c8c89d3eda7949","track_number":1,"type":"track","uri":"spotify:track:6e40mgJiCid5HRAGrbpGA6"}
+
+
+Command:
+spotify-this-song you are beautiful 
+Result:
+{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"},"href":"https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW","id":"3mIj9lX2MWuHmhNCA7LSCW","name":"The 1975","type":"artist","uri":"spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"}],"available_markets":["CA","MX","US"],"external_urls":{"spotify":"https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"},"href":"https://api.spotify.com/v1/albums/1JFmNyVPdBF1ECvv4fhpW4","id":"1JFmNyVPdBF1ECvv4fhpW4","images":[{"height":640,"url":"https://i.scdn.co/image/a2aba574af86865eee08624042b1bf75d15cc362","width":640},{"height":300,"url":"https://i.scdn.co/image/a5a8d74562e8df93438e8942599cd1538c92a9b6","width":300},{"height":64,"url":"https://i.scdn.co/image/c8f2e4970890a0da5171a70900b56b5e512626a6","width":64}],"name":"I like it when you sleep, for you are so beautiful yet so unaware of it","type":"album","uri":"spotify:album:1JFmNyVPdBF1ECvv4fhpW4"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"},"href":"https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW","id":"3mIj9lX2MWuHmhNCA7LSCW","name":"The 1975","type":"artist","uri":"spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"}],"available_markets":["CA","MX","US"],"disc_number":1,"duration_ms":347520,"explicit":true,"external_ids":{"isrc":"GBK3W1500426"},"external_urls":{"spotify":"https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"},"href":"https://api.spotify.com/v1/tracks/5hc71nKsUgtwQ3z52KEKQk","id":"5hc71nKsUgtwQ3z52KEKQk","name":"Somebody Else","popularity":75,"preview_url":null,"track_number":10,"type":"track","uri":"spotify:track:5hc71nKsUgtwQ3z52KEKQk"}
+
+
+Command:
+movie-this the matrix 
+Result:
+{"Title":"The Matrix","Year":"1999","Rated":"R","Released":"31 Mar 1999","Runtime":"136 min","Genre":"Action, Sci-Fi","Director":"Lana Wachowski, Lilly Wachowski","Writer":"Lilly Wachowski, Lana Wachowski","Actors":"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving","Plot":"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.","Language":"English","Country":"USA","Awards":"Won 4 Oscars. Another 34 wins & 45 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.7/10"},{"Source":"Rotten Tomatoes","Value":"87%"},{"Source":"Metacritic","Value":"73/100"}],"Metascore":"73","imdbRating":"8.7","imdbVotes":"1,338,915","imdbID":"tt0133093","Type":"movie","DVD":"21 Sep 1999","BoxOffice":"N/A","Production":"Warner Bros. Pictures","Website":"http://www.whatisthematrix.com","Response":"True"}
+
+
+Command:
+spotify-this-song call me maybe 
+Result:
+{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"},"href":"https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju","id":"6sFIWsNpZYqfjUpaCgueju","name":"Carly Rae Jepsen","type":"artist","uri":"spotify:artist:6sFIWsNpZYqfjUpaCgueju"}],"available_markets":["MX","US"],"external_urls":{"spotify":"https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"},"href":"https://api.spotify.com/v1/albums/29blfJv8AddJrjuG3DpE13","id":"29blfJv8AddJrjuG3DpE13","images":[{"height":640,"url":"https://i.scdn.co/image/3c8ecd66a7e8a70d3ec7ae961ce823ac76f03539","width":640},{"height":300,"url":"https://i.scdn.co/image/bb20b68dfa3c8f28f506d58bb10d1f19f4e42568","width":300},{"height":64,"url":"https://i.scdn.co/image/b5beb6e614792d7e463e3f055e7e4c2643dfb794","width":64}],"name":"Kiss (Deluxe)","type":"album","uri":"spotify:album:29blfJv8AddJrjuG3DpE13"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"},"href":"https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju","id":"6sFIWsNpZYqfjUpaCgueju","name":"Carly Rae Jepsen","type":"artist","uri":"spotify:artist:6sFIWsNpZYqfjUpaCgueju"}],"available_markets":["MX","US"],"disc_number":1,"duration_ms":193400,"explicit":false,"external_ids":{"isrc":"CAB391100615"},"external_urls":{"spotify":"https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"},"href":"https://api.spotify.com/v1/tracks/3TGRqZ0a2l1LRblBkJoaDx","id":"3TGRqZ0a2l1LRblBkJoaDx","name":"Call Me Maybe","popularity":70,"preview_url":null,"track_number":3,"type":"track","uri":"spotify:track:3TGRqZ0a2l1LRblBkJoaDx"}
+
+
+Command:
+my-tweets 
+Result:
+
+entry of the gods into valhalla
+this is the 20th
+count down
+why 2 more?
+that might be fun
+generat fake tweets
+should write a robot
+not easy enough
+that is easy
+almost there
+nine more to go
+people gets mad easily these days https://t.co/X6iKjJdbCP
+coming closer to 20
+how does people have time
+Ava sends tweets way too often
+nothing is happening
+how many to go
+still not 20
+@realDonaldTrump interesting
+when will it be the 20 tweest
+
+
+Command:
+movie-this the matrix 
+Result:
+{"Title":"The Matrix","Year":"1999","Rated":"R","Released":"31 Mar 1999","Runtime":"136 min","Genre":"Action, Sci-Fi","Director":"Lana Wachowski, Lilly Wachowski","Writer":"Lilly Wachowski, Lana Wachowski","Actors":"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving","Plot":"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.","Language":"English","Country":"USA","Awards":"Won 4 Oscars. Another 34 wins & 45 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.7/10"},{"Source":"Rotten Tomatoes","Value":"87%"},{"Source":"Metacritic","Value":"73/100"}],"Metascore":"73","imdbRating":"8.7","imdbVotes":"1,338,915","imdbID":"tt0133093","Type":"movie","DVD":"21 Sep 1999","BoxOffice":"N/A","Production":"Warner Bros. Pictures","Website":"http://www.whatisthematrix.com","Response":"True"}
+
+
